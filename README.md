@@ -13,3 +13,7 @@ Purpose of this to learn git and github
 ## Conclusion
 
 Concluded
+
+### CopyRight
+
+2014 Git. Training
